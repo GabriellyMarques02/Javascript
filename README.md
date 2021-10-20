@@ -1,3 +1,3 @@
 # Javascript
 
-Estudos na Linguagem JavaScript
+Estudos na Linguagem Javascript
