@@ -1,3 +1,3 @@
 # Javascript
 
-Repositorio de exercicios de JavaScript
+Estudos na Linguagem JavaScript
